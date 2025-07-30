@@ -25,7 +25,9 @@ The site showcases both my work as a **developer** and my **photography collecti
 
    npm install
 
-   http://localhost:3000```
+   http://localhost:3000
+
+   
    
 
 
