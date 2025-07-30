@@ -17,7 +17,7 @@ The site showcases both my work as a **developer** and my **photography collecti
 ## ⚙️ Getting Started
 
 1. **Clone the repository**
-```bash```
+```bash
 
    git clone https://github.com/your-username/martinhl.git
 
@@ -25,7 +25,7 @@ The site showcases both my work as a **developer** and my **photography collecti
 
    npm install
 
-   http://localhost:3000
+   http://localhost:3000```
    
 
 
